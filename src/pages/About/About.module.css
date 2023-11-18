@@ -1,0 +1,7 @@
+.stylecenter{
+    display: grid;
+    place-items: center;
+    align-items: center;
+    min-height: 100vh;
+}
+

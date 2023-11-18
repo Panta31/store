@@ -1,0 +1,10 @@
+.homeMod{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 25rem 20rem 20rem ;
+    margin: 0  50px;
+    margin-bottom:20px ;
+    grid-gap: 10px;
+   
+}
+
